@@ -1,0 +1,238 @@
+/* Modern Dark Theme Styles */
+.app-container {
+    min-height: 100vh;
+    background-color: #121212;
+    color: #ffffff;
+    padding: 2rem 1rem;
+  }
+  
+  .content-wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Title Styling */
+  .title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #ffffff;
+  }
+  
+  .city-highlight {
+    background: linear-gradient(45deg, #3498db, #2ecc71);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  
+  /* City Selector */
+  .city-selector {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .city-button {
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 600;
+    background-color: #2a2a2a;
+    color: #888;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .city-button:hover {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .city-button.active {
+    background: linear-gradient(45deg, #3498db, #2ecc71);
+    color: #fff;
+    box-shadow: 0 4px 15px rgba(52, 152, 219, 0.3);
+  }
+  
+  /* Filter Dropdown */
+  .filter-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .limit-select {
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    background-color: #2a2a2a;
+    color: #fff;
+    border: 1px solid #444;
+    cursor: pointer;
+    font-size: 0.9rem;
+  }
+  
+  .limit-select:focus {
+    outline: none;
+    border-color: #3498db;
+  }
+  
+  /* Restaurant Cards */
+  .restaurant-grid {
+    display: grid;
+    gap: 1.5rem;
+    animation: fadeIn 0.5s ease-out;
+  }
+  
+  .restaurant-card {
+    background-color: #1e1e1e;
+    border-radius: 12px;
+    padding: 1.5rem;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .restaurant-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+    background-color: #242424;
+  }
+  
+  .rank-badge {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #3498db;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    min-width: 3rem;
+    text-align: center;
+    height: 50px;
+    align-self: center;
+  }
+  
+  .restaurant-content {
+    flex: 1;
+  }
+  
+  .restaurant-name {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 0.75rem;
+  }
+  
+  .restaurant-address {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #888;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+  }
+  
+  .maps-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #3498db;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+  
+  .maps-link:hover {
+    color: #2ecc71;
+  }
+  
+  .icon {
+    width: 16px;
+    height: 16px;
+    stroke-width: 2;
+  }
+  
+  /* Animations */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .title {
+      font-size: 2rem;
+    }
+    
+    .restaurant-card {
+      flex-direction: column;
+    }
+    
+    .rank-badge {
+      align-self: flex-start;
+    }
+  }
+  
+  /* Custom Scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  .rating-section {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  .rating-stars {
+    display: flex;
+    gap: 0.25rem;
+  }
+  
+  .star-icon {
+    width: 16px;
+    height: 16px;
+    color: #ffd700;
+  }
+  
+  .star-icon.filled {
+    filter: drop-shadow(0 0 2px rgba(255, 215, 0, 0.3));
+  }
+  
+  .rating-value {
+    font-weight: 600;
+    color: #ffd700;
+  }
+  
+  .review-count {
+    color: #888;
+    font-size: 0.9rem;
+  }
+  
+  
+  ::-webkit-scrollbar-track {
+    background: #1e1e1e;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #444;
+    border-radius: 4px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
