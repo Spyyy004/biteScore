@@ -1,101 +1,3 @@
-// import React, { useState, useEffect } from "react";
-// import "./RestaurantsList.css";
-// import bangalore_data from "./bangalore_restaurants_ranked.json";
-// import mumbai_data from "./cleaned_ranked_mumbai.json";
-
-// // SVG icons as components with improved styling
-// const MapIcon = () => (
-//   <svg className="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-//     <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z" />
-//     <circle cx="12" cy="10" r="3" />
-//   </svg>
-// );
-
-// const ExternalLinkIcon = () => (
-//   <svg className="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-//     <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6" />
-//     <path d="M15 3h6v6" />
-//     <path d="M10 14L21 3" />
-//   </svg>
-// );
-
-// export default function RestaurantsList() {
-//   const [selectedCity, setSelectedCity] = useState("Bangalore");
-//   const [restaurants, setRestaurants] = useState([]);
-//   const [limit, setLimit] = useState(10);
-
-//   useEffect(() => {
-//     setRestaurants(selectedCity === "Bangalore" ? bangalore_data : mumbai_data);
-//   }, [selectedCity]);
-
-//   return (
-//     <div className="app-container">
-//       <div className="content-wrapper">
-//         <h1 className="title">
-//           Top Restaurants in <span className="city-highlight">{selectedCity}</span>
-//         </h1>
-
-//         <div className="city-selector">
-//           <button 
-//             className={`city-button ${selectedCity === "Bangalore" ? "active" : ""}`} 
-//             onClick={() => setSelectedCity("Bangalore")}
-//           >
-//             Bangalore
-//           </button>
-//           <button 
-//             className={`city-button ${selectedCity === "Mumbai" ? "active" : ""}`} 
-//             onClick={() => setSelectedCity("Mumbai")}
-//           >
-//             Mumbai
-//           </button>
-//         </div>
-
-//         <div className="filter-container">
-//           <label htmlFor="limit">Show:</label>
-//           <select
-//             id="limit"
-//             value={limit}
-//             onChange={(e) => setLimit(parseInt(e.target.value))}
-//             className="limit-select"
-//           >
-//             <option value={10}>Top 10</option>
-//             <option value={20}>Top 20</option>
-//             <option value={50}>Top 50</option>
-//           </select>
-//         </div>
-
-//         <div className="restaurant-grid">
-//           {restaurants.slice(0, limit).map((restaurant, index) => (
-//             <div key={restaurant.id} className="restaurant-card">
-//               <div className="rank-badge">#{index + 1}</div>
-//               <div className="restaurant-content">
-//                 <h2 className="restaurant-name">
-//                   {restaurant?.["displayName.text"]}
-//                 </h2>
-//                 <p className="restaurant-address">
-//                   <MapIcon />
-//                   <span>{restaurant.shortFormattedAddress}</span>
-//                 </p>
-//                 <a
-//                   href={restaurant.googleMapsUri}
-//                   target="_blank"
-//                   rel="noopener noreferrer"
-//                   className="maps-link"
-//                 >
-//                   <ExternalLinkIcon />
-//                   <span>View on Google Maps</span>
-//                 </a>
-//               </div>
-//             </div>
-//           ))}
-//         </div>
-//       </div>
-//     </div>
-//   );
-// }
-
-
-
 import React, { useState, useEffect } from "react";
 import "./RestaurantsList.css";
 import bangalore_data from "./bangalore_restaurants_ranked.json";
@@ -151,7 +53,7 @@ const Rating = ({ rating }) => {
 export default function RestaurantsList() {
   const [selectedCity, setSelectedCity] = useState("Bangalore");
   const [restaurants, setRestaurants] = useState([]);
-  const [limit, setLimit] = useState(10);
+  const [limit, setLimit] = useState(0);
 
   useEffect(() => {
     setRestaurants(selectedCity === "Bangalore" ? bangalore_data : mumbai_data);
@@ -179,22 +81,9 @@ export default function RestaurantsList() {
           </button>
         </div>
 
-        <div className="filter-container">
-          <label htmlFor="limit">Show:</label>
-          <select
-            id="limit"
-            value={limit}
-            onChange={(e) => setLimit(parseInt(e.target.value))}
-            className="limit-select"
-          >
-            <option value={10}>Top 10</option>
-            <option value={20}>Top 20</option>
-            <option value={50}>Top 50</option>
-          </select>
-        </div>
-
+    
         <div className="restaurant-grid">
-          {restaurants.slice(0, limit).map((restaurant, index) => (
+          {restaurants.map((restaurant, index) => (
             <div key={restaurant.id} className="restaurant-card">
               <div className="rank-badge">#{index + 1}</div>
               <div className="restaurant-content">
