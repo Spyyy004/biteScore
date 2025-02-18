@@ -1338,19 +1338,7 @@
         "primaryTypeDisplayName.text":"Indian Restaurant",
         "wilson_score":0.8942265553
     },
-    {
-        "id":"ChIJOROn6ObR5zsR4v-Z30qf6F0",
-        "rating":4.5,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=6766833584051978210",
-        "userRatingCount":10394,
-        "shortFormattedAddress":"Jyoti Sadan, No.1-C, Building No.137, Marine Dr, Intercontinental Hotel, Churchgate, Mumbai",
-        "location.latitude":18.9345995,
-        "location.longitude":72.824176,
-        "displayName.text":"Naturals Ice Cream",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8940839093
-    },
+
     {
         "id":"ChIJURUuZSO25zsR3SW5s0kk6h8",
         "rating":4.5,
@@ -1493,19 +1481,6 @@
         "displayName.languageCode":"en",
         "primaryTypeDisplayName.text":"Restaurant",
         "wilson_score":0.8906755513
-    },
-    {
-        "id":"ChIJ_____zqx5zsR8mE-wPtfc2M",
-        "rating":4.5,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=7166176966943334898",
-        "userRatingCount":4097,
-        "shortFormattedAddress":"Shop No. 8 And 9, Building No. 6, Prem Nagar, Borivali West, HDFC Bank, Ram Mandir, Junction",
-        "location.latitude":19.236991,
-        "location.longitude":72.8537149,
-        "displayName.text":"Naturals Ice Cream",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8904355691
     },
     {
         "id":"ChIJn_PM5A7O5zsRzWGOBUUidgE",
@@ -1714,19 +1689,6 @@
         "displayName.languageCode":"en",
         "primaryTypeDisplayName.text":"Tea House",
         "wilson_score":0.8869230809
-    },
-    {
-        "id":"ChIJX5FjTR3G5zsRy4J-y4ivRNA",
-        "rating":4.5,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=15007312860369814219",
-        "userRatingCount":2206,
-        "shortFormattedAddress":"Shop No. 3, Suswagatam Society, Sion - Trombay Rd, Diamond Garden, Chembur, Mumbai",
-        "location.latitude":19.0527444,
-        "location.longitude":72.8996997,
-        "displayName.text":"Naturals Ice Cream",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8867770687
     },
     {
         "id":"ChIJdb_u5O7J5zsRs6JKT9HWTNE",
@@ -2131,19 +2093,7 @@
         "primaryTypeDisplayName.text":"Restaurant",
         "wilson_score":0.8738895681
     },
-    {
-        "id":"ChIJIVYYPZHR5zsRYh1i6RevdnE",
-        "rating":4.5,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=8175914690772344162",
-        "userRatingCount":617,
-        "shortFormattedAddress":"7, Usha Sadan Post Office, Nanabhai Moos Marg, Colaba, Mumbai",
-        "location.latitude":18.9111102,
-        "location.longitude":72.8206833,
-        "displayName.text":"Naturals Ice Cream",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8737968287
-    },
+
     {
         "id":"ChIJy9qGn_rO5zsRzyL3YECNfv0",
         "rating":4.4,
@@ -3002,19 +2952,7 @@
         "primaryTypeDisplayName.text":"Restaurant",
         "wilson_score":0.8659685789
     },
-    {
-        "id":"ChIJHU1f2S7G5zsRrNqfpjti83E",
-        "rating":4.5,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=8211014553964632748",
-        "userRatingCount":383,
-        "shortFormattedAddress":"Unit No. 8 Ground Floor, EAST POINT, ARUN APARTMENT, 90 Feet Rd, Siddhivinayak Temple, Gopinath Colony, MHADA Colony, Pant Nagar, Ghatkopar East, Mumbai",
-        "location.latitude":19.0812534,
-        "location.longitude":72.9115892,
-        "displayName.text":"Apsara Ice Creams",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8658691454
-    },
+  
     {
         "id":"ChIJWwwMyMzJ5zsRGPPrnAQuSw8",
         "rating":4.4,
@@ -3067,19 +3005,7 @@
         "primaryTypeDisplayName.text":"Cafe",
         "wilson_score":0.8654964625
     },
-    {
-        "id":"ChIJhW4VLFC25zsRhj9UcLGr6m4",
-        "rating":4.4,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=7992389267304497030",
-        "userRatingCount":2107,
-        "shortFormattedAddress":"Shop No. 5&6, Ground Floor, Dhanalaxmi Building, Mahatma Gandhi Rd, Motilal Nagar I, Goregaon West, Mumbai",
-        "location.latitude":19.1625537,
-        "location.longitude":72.8423874,
-        "displayName.text":"Naturals Ice Cream",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8654280891
-    },
+
     {
         "id":"ChIJ90_2CNjJ5zsRhjY4Vg9XnPc",
         "rating":4.4,
@@ -3119,19 +3045,7 @@
         "primaryTypeDisplayName.text":"Italian Restaurant",
         "wilson_score":0.8652095528
     },
-    {
-        "id":"ChIJ3-7e3DG25zsRnaEz5wOY-l0",
-        "rating":4.4,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=6771892132236206493",
-        "userRatingCount":2018,
-        "shortFormattedAddress":"Shop No. 2, Royal Court Apartments, ROYAL GARDEN-2, Swami Vivekananda Rd, Millat Hospital, Momin Nagar, Jogeshwari West, Mumbai",
-        "location.latitude":19.139987,
-        "location.longitude":72.843963,
-        "displayName.text":"Naturals Ice Cream",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8650946604
-    },
+
     {
         "id":"ChIJF_C3nxTJ5zsRYRUatirIqqw",
         "rating":4.4,
@@ -3145,19 +3059,7 @@
         "primaryTypeDisplayName.text":"Restaurant",
         "wilson_score":0.865051869
     },
-    {
-        "id":"ChIJ6ybv8eXO5zsRJAo5__eN2-c",
-        "rating":4.4,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=16707103338939353636",
-        "userRatingCount":1981,
-        "shortFormattedAddress":"Ooranwala Mansion, Shop No. 5, Bldg No. 257, Dr Babasaheb Ambedkar Marg, Petrol Pump, Mumbai",
-        "location.latitude":19.005719,
-        "location.longitude":72.8403926,
-        "displayName.text":"Naturals Ice Cream",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.864949268
-    },
+
     {
         "id":"ChIJfRmc96fP5zsRZolceyl-Vq0",
         "rating":4.4,
@@ -3197,19 +3099,7 @@
         "primaryTypeDisplayName.text":"Takeout Restaurant",
         "wilson_score":0.8646539331
     },
-    {
-        "id":"ChIJ____P87O5zsRMydGg3MS8I4",
-        "rating":4.4,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=10299752635129276211",
-        "userRatingCount":1866,
-        "shortFormattedAddress":"BLOCK-2, Shop No.1, Dattaprasad, Plot, Swatantryaveer Savarkar Rd, Dadar West, Shivaji Park, Mumbai",
-        "location.latitude":19.0251204,
-        "location.longitude":72.835503,
-        "displayName.text":"Naturals Ice Cream",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8644691929
-    },
+
     {
         "id":"ChIJu25V_YO55zsR1BSElqegMzk",
         "rating":4.4,
@@ -3353,19 +3243,7 @@
         "primaryTypeDisplayName.text":"Indian Restaurant",
         "wilson_score":0.8636875923
     },
-    {
-        "id":"ChIJBX932c-25zsR9tACslRLKew",
-        "rating":4.4,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=17017215494131994870",
-        "userRatingCount":1627,
-        "shortFormattedAddress":"Shop No. 4 & 5, Pranik Garden, Mahavir Nagar, Damu Anna Date Marg, Boraspada Rd, Pushp Heritage, Dahanukar Wadi, Kandivali West, Mumbai",
-        "location.latitude":19.2096216,
-        "location.longitude":72.8395906,
-        "displayName.text":"Naturals Ice Cream",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8633076617
-    },
+  
     {
         "id":"ChIJX7_3IBW35zsRWfJijIitKQc",
         "rating":4.4,
@@ -3444,19 +3322,7 @@
         "primaryTypeDisplayName.text":"Indian Restaurant",
         "wilson_score":0.8620374444
     },
-    {
-        "id":"ChIJv3trVTq35zsRkYoJKjOHiH8",
-        "rating":4.4,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=9189743693467847313",
-        "userRatingCount":1372,
-        "shortFormattedAddress":"Shop No. 1, 2, SATYAM APARTMENT, Avenue Hotel, Kandivali, Nabard Nagar, Thakur Complex, Kandivali East, Mumbai",
-        "location.latitude":19.2076951,
-        "location.longitude":72.8663656,
-        "displayName.text":"Naturals Ice Cream",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8617348961
-    },
+
     {
         "id":"ChIJB5PdggPP5zsRML2GtQ4rrGU",
         "rating":4.4,
@@ -3561,19 +3427,7 @@
         "primaryTypeDisplayName.text":"Indian Restaurant",
         "wilson_score":0.8604249336
     },
-    {
-        "id":"ChIJ5_7LYGzO5zsRtasGBGDzyYM",
-        "rating":4.4,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=9496388882997357493",
-        "userRatingCount":1201,
-        "shortFormattedAddress":"Ganjawala Compound, Shop No 04, Kothari Heights, Lamington Rd, Reliance Mall, Mumbai",
-        "location.latitude":18.9679161,
-        "location.longitude":72.8205205,
-        "displayName.text":"Naturals Ice Cream",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8603989735
-    },
+  
     {
         "id":"ChIJh1gZUGnJ5zsRksGJ1KuJ65Q",
         "rating":4.4,
@@ -4133,19 +3987,7 @@
         "primaryTypeDisplayName.text":"Vegetarian Restaurant",
         "wilson_score":0.8536148134
     },
-    {
-        "id":"ChIJNyurquPN5zsRbdQah1obg5Q",
-        "rating":4.4,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=10701427215190119533",
-        "userRatingCount":684,
-        "shortFormattedAddress":"74\/76, Subhadra Mansion, Walkeshwar Rd, Gopi Birla Memorial School, Krishanaraj Society, Walkeshwar, Malabar Hill, Mumbai",
-        "location.latitude":18.9516561,
-        "location.longitude":72.8031155,
-        "displayName.text":"Apsara Ice Creams",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8534998205
-    },
+  
     {
         "id":"ChIJzw0f-yLO5zsRHq0O1lgaXak",
         "rating":4.3,
@@ -5836,19 +5678,7 @@
         "primaryTypeDisplayName.text":"Restaurant",
         "wilson_score":0.8426063388
     },
-    {
-        "id":"ChIJz3yGsdi35zsRFOS1am67d2s",
-        "rating":4.4,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=7743864167197959188",
-        "userRatingCount":364,
-        "shortFormattedAddress":"Shop No. 9, Takshila Housing Society, Off, Mahakali Caves Rd, Andheri East, Mumbai",
-        "location.latitude":19.1310873,
-        "location.longitude":72.8688823,
-        "displayName.text":"Apsara Ice Creams",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8425859967
-    },
+   
     {
         "id":"ChIJBW78K-PH5zsRQuq7ifFg_Ys",
         "rating":4.3,
@@ -6083,19 +5913,7 @@
         "primaryTypeDisplayName.text":"Indian Restaurant",
         "wilson_score":0.8403824585
     },
-    {
-        "id":"ChIJxbAUT-645zsRHoRuAHuAxrU",
-        "rating":4.3,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=13098297832030241822",
-        "userRatingCount":1336,
-        "shortFormattedAddress":"Shop No-1, Krupa Cooperative Housing society, GV Scheme Rd 2, Shri Sai Nath Nagar, Hanuman Chowk, Mulund East, Mumbai",
-        "location.latitude":19.1699575,
-        "location.longitude":72.9598078,
-        "displayName.text":"Naturals Ice Cream",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8403592906
-    },
+    
     {
         "id":"ChIJY4mQdozO5zsRddjplFKhN_g",
         "rating":4.3,
@@ -6590,19 +6408,7 @@
         "primaryTypeDisplayName.text":"Italian Restaurant",
         "wilson_score":0.8354639289
     },
-    {
-        "id":"ChIJx682e33I5zsRkoXaQ2J4F64",
-        "rating":4.3,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=12544627650504328594",
-        "userRatingCount":865,
-        "shortFormattedAddress":"Unit S, 20 A, Lal Bahadur Shastri Marg, Kurla West, Kurla, Mumbai",
-        "location.latitude":19.0864221,
-        "location.longitude":72.8901828,
-        "displayName.text":"Naturals Ice Cream",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8352806808
-    },
+   
     {
         "id":"ChIJ9_y9XiTH5zsRnRxbLjLzNew",
         "rating":4.3,
@@ -20044,19 +19850,6 @@
         "displayName.languageCode":"en",
         "primaryTypeDisplayName.text":"Indian Restaurant",
         "wilson_score":0.7460087501
-    },
-    {
-        "id":"ChIJn0ijOdew5zsR7Akr4AArbcI",
-        "rating":3.9,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=14009901298580392428",
-        "userRatingCount":629,
-        "shortFormattedAddress":"6VP3+WFH Western Suburbs, Gora Gandhi Apartment, Swami Vivekananda Rd, Borivali West, Mumbai",
-        "location.latitude":19.2373236,
-        "location.longitude":72.8537207,
-        "displayName.text":"Giani's Icecream (Prem Nagar) Borivali West",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.7459804928
     },
     {
         "id":"ChIJe6_d39LH5zsRGx9HmiH7gCM",
