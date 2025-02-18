@@ -2001,19 +2001,7 @@
         "primaryTypeDisplayName.text":"Japanese Restaurant",
         "wilson_score":0.9055372303
     },
-    {
-        "id":"ChIJASNSOKg9rjsRFSg9YFAmloA",
-        "rating":4.6,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=9265635410015234069",
-        "userRatingCount":1565,
-        "shortFormattedAddress":"BDA Layout, Annapoorneshwari Nagar, Naagarabhaavi, Bengaluru",
-        "location.latitude":12.9799618,
-        "location.longitude":77.5102971,
-        "displayName.text":"Polar Bear Ice Cream Sundaes - Janabharathi",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.9055074897
-    },
+  
     {
         "id":"ChIJV0QQhn4TrjsRl0wNHDu4QPw",
         "rating":4.6,
@@ -3002,19 +2990,7 @@
         "primaryTypeDisplayName.text":"Cafe",
         "wilson_score":0.8928625698
     },
-    {
-        "id":"ChIJZVXJn0gXrjsRBGn-XYuyo_U",
-        "rating":4.5,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=17700187272143333636",
-        "userRatingCount":6822,
-        "shortFormattedAddress":"Second Block, Raj Mahal Vilas Extension, 237, 2nd Stage, 80 Feet Rd, Banday Colony, Geddalahalii, Armane Nagar, Bengaluru",
-        "location.latitude":13.0278926,
-        "location.longitude":77.5750834,
-        "displayName.text":"Milano Ice Cream",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Dessert Shop",
-        "wilson_score":0.8926542825
-    },
+   
     {
         "id":"ChIJGQx7mpcPrjsRrpeJfqMTKxo",
         "rating":4.6,
@@ -4510,19 +4486,7 @@
         "primaryTypeDisplayName.text":"Indian Restaurant",
         "wilson_score":0.8765341229
     },
-    {
-        "id":"ChIJY6d3QWwTrjsR2JPaB1U43I0",
-        "rating":4.5,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=10222107192079324120",
-        "userRatingCount":746,
-        "shortFormattedAddress":"Shop No.4, S.H.R. Complex, Siddhapura, Varthur Main Rd, Whitefield, Bengaluru",
-        "location.latitude":12.9561917,
-        "location.longitude":77.7297523,
-        "displayName.text":"Apsara Ice Creams",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8763801562
-    },
+   
     {
         "id":"ChIJmfwRU80RrjsR_9jDVx-DtKQ",
         "rating":4.5,
@@ -4848,19 +4812,7 @@
         "primaryTypeDisplayName.text":"Indian Restaurant",
         "wilson_score":0.8742415337
     },
-    {
-        "id":"ChIJcdsLXuEZrjsR89bOKifMpZg",
-        "rating":4.6,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=10999422133516293875",
-        "userRatingCount":200,
-        "shortFormattedAddress":"Clothing store, Gubbi Cross, No 81, Indraprastha, Hennur Bagalur Main Rd, Zudio Indraprastha, Kothanur, Bengaluru",
-        "location.latitude":13.0643374,
-        "location.longitude":77.6521513,
-        "displayName.text":"Frozen Bottle - Milkshakes, Desserts, and Ice Cream",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Dessert Shop",
-        "wilson_score":0.8740095102
-    },
+   
     {
         "id":"ChIJtcHnw3g9rjsROTzAoEmcyQw",
         "rating":4.4,
@@ -5043,19 +4995,7 @@
         "primaryTypeDisplayName.text":"Indian Restaurant",
         "wilson_score":0.8722969808
     },
-    {
-        "id":"ChIJ8STjFrYVrjsRiZ-Sy99UkJs",
-        "rating":4.4,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=11209552792694988681",
-        "userRatingCount":7202,
-        "shortFormattedAddress":"9th Main Rd, 7, 4th Block, 5th Block, Jayanagar, Bengaluru",
-        "location.latitude":12.9225553,
-        "location.longitude":77.5839361,
-        "displayName.text":"Milano Ice Cream - Jayanagar",
-        "displayName.languageCode":"it",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8722914935
-    },
+    
     {
         "id":"ChIJ7YqcEA4TrjsR9KxR1KrOwyQ",
         "rating":4.4,
@@ -5862,19 +5802,7 @@
         "primaryTypeDisplayName.text":"Indian Restaurant",
         "wilson_score":0.8668868729
     },
-    {
-        "id":"ChIJJTK0P449rjsREguzwpleclI",
-        "rating":4.4,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=5940914872944626450",
-        "userRatingCount":2572,
-        "shortFormattedAddress":"155, 19th Main Rd, 2nd Block, Rajajinagar, Bengaluru",
-        "location.latitude":12.9964813,
-        "location.longitude":77.5515214,
-        "displayName.text":"Polar Bear Ice Cream Sundaes - Rajajinagar",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8668709207
-    },
+  
     {
         "id":"ChIJpSFpffgTrjsR5-dtOEq1ec4",
         "rating":4.5,
@@ -6265,19 +6193,7 @@
         "primaryTypeDisplayName.text":"Hotel",
         "wilson_score":0.863414795
     },
-    {
-        "id":"ChIJiX9-nCQTrjsRqA0d0rCXnAc",
-        "rating":4.5,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=548480040327515560",
-        "userRatingCount":337,
-        "shortFormattedAddress":"141\/1, Shop No. 7&8, Ground Floor, Sarjapur - Marathahalli Rd, HP Petrol bunk, Kodathi Gate, Bengaluru",
-        "location.latitude":12.8971331,
-        "location.longitude":77.7186901,
-        "displayName.text":"Apsara Ice Creams",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8633247431
-    },
+   
     {
         "id":"ChIJx-30jDQ_rjsRp2fmaVgSJl0",
         "rating":4.4,
@@ -7799,19 +7715,7 @@
         "primaryTypeDisplayName.text":"Deli",
         "wilson_score":0.8529086738
     },
-    {
-        "id":"ChIJeSrjcIEXrjsRJrqJT6KRD58",
-        "rating":4.4,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=11461539702986357286",
-        "userRatingCount":654,
-        "shortFormattedAddress":"No.2, Ground Floor, 15th A Cross Rd, Coffee Board Park, Bhuvaneswari Nagar, Hebbal Kempapura, Bengaluru",
-        "location.latitude":13.0532452,
-        "location.longitude":77.6044172,
-        "displayName.text":"Apsara Ice Creams",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8528490644
-    },
+    
     {
         "id":"ChIJRR0bAIwVrjsROej9jRoJH0w",
         "rating":4.3,
@@ -8085,19 +7989,7 @@
         "primaryTypeDisplayName.text":"Barbecue Restaurant",
         "wilson_score":0.8518247638
     },
-    {
-        "id":"ChIJm-NOIQkVrjsRoEH_pEGDet0",
-        "rating":4.3,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=15959212547505078688",
-        "userRatingCount":7058,
-        "shortFormattedAddress":"1225, 26th Main Rd, Putlanpalya, Jayanagara 9th Block, Jayanagar, Bengaluru",
-        "location.latitude":12.9174467,
-        "location.longitude":77.5931932,
-        "displayName.text":"Corner House - Jayanagar 9th Block",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8517087783
-    },
+   
     {
         "id":"ChIJQQz8p7FrrjsRU0-eo9sGucc",
         "rating":4.4,
@@ -8436,19 +8328,7 @@
         "primaryTypeDisplayName.text":"Restaurant",
         "wilson_score":0.8507905946
     },
-    {
-        "id":"ChIJNcPsF98TrjsRZnC9DXzBlgg",
-        "rating":4.4,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=618894737360646246",
-        "userRatingCount":569,
-        "shortFormattedAddress":"Shoba club house, No.1134, road, Green Glen Layout, Bellandur, Bengaluru",
-        "location.latitude":12.9284277,
-        "location.longitude":77.6717505,
-        "displayName.text":"Apsara Ice Creams",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8507183128
-    },
+   
     {
         "id":"ChIJvx2wWQ0VrjsRZFvb_GCEkuI",
         "rating":4.3,
@@ -10555,19 +10435,7 @@
         "primaryTypeDisplayName.text":"Restaurant",
         "wilson_score":0.8373805867
     },
-    {
-        "id":"ChIJsbjT9ZxsrjsRKtyk-C11-xk",
-        "rating":4.3,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=1872218910408105002",
-        "userRatingCount":1011,
-        "shortFormattedAddress":"Velankanni drive, Phase 1, SJR EQUINOX, Apartment, Electronic City, Bengaluru",
-        "location.latitude":12.8488818,
-        "location.longitude":77.6577028,
-        "displayName.text":"Frozen Bottle - Milkshakes, Desserts, and Ice Cream",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Dessert Shop",
-        "wilson_score":0.8372451608
-    },
+ 
     {
         "id":"ChIJ-eQ0g9MXrjsRO6OH0C7xE7I",
         "rating":4.4,
@@ -13415,19 +13283,7 @@
         "primaryTypeDisplayName.text":0,
         "wilson_score":0.8264311853
     },
-    {
-        "id":"ChIJt6t3NsQRrjsRtQcjwcO5LHM",
-        "rating":4.3,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=8299212463747041205",
-        "userRatingCount":484,
-        "shortFormattedAddress":"Hoodi Kodigehalli Main Rd, Kr puram, Mahadevapura, Bengaluru",
-        "location.latitude":13.0044673,
-        "location.longitude":77.714831,
-        "displayName.text":"Cream and Fudge",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8262434548
-    },
+    
     {
         "id":"ChIJB098AR4UrjsRdWR4bXWUqLg",
         "rating":4.2,
@@ -15625,19 +15481,7 @@
         "primaryTypeDisplayName.text":"Indian Restaurant",
         "wilson_score":0.8147582663
     },
-    {
-        "id":"ChIJm1LybKIVrjsRwxfnAcgY6xs",
-        "rating":4.1,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=2011728905855506371",
-        "userRatingCount":21011,
-        "shortFormattedAddress":"11th Main, 70, 30th Cross Rd, Geetha Colony, 4th T Block East, Jayanagar, Bengaluru",
-        "location.latitude":12.9288091,
-        "location.longitude":77.5858992,
-        "displayName.text":"Cool Joint",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.8147467637
-    },
+   
     {
         "id":"ChIJz5xXooVtrjsR6i_lh5S33uk",
         "rating":4.3,
@@ -27377,19 +27221,7 @@
         "primaryTypeDisplayName.text":"Cafe",
         "wilson_score":0.7686243879
     },
-    {
-        "id":"ChIJk62DGoEVrjsRpEGWkN-LX4s",
-        "rating":4.0,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=10042899486379229604",
-        "userRatingCount":693,
-        "shortFormattedAddress":"2462, Ramanashree Park View Building, 24th Cross Rd, SBI Bank, Siddanna Layout, Banashankari Stage II, Banashankari, Bengaluru",
-        "location.latitude":12.9242423,
-        "location.longitude":77.5654628,
-        "displayName.text":"Frozen Bottle - Milkshakes, Desserts, and Ice Cream",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Dessert Shop",
-        "wilson_score":0.768600632
-    },
+   
     {
         "id":"ChIJ96bu3p8WrjsRHmZbhigGsps",
         "rating":3.9,
@@ -28209,19 +28041,7 @@
         "primaryTypeDisplayName.text":"Indian Restaurant",
         "wilson_score":0.7661889807
     },
-    {
-        "id":"ChIJHY5vazgRrjsRwChkDqy_lAc",
-        "rating":4.0,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=546272200515397824",
-        "userRatingCount":598,
-        "shortFormattedAddress":"#18, 1st Main Road, 4th Cross Rd, Pai Layout, Mahadevapura, Bengaluru",
-        "location.latitude":12.9943823,
-        "location.longitude":77.6665874,
-        "displayName.text":"Swiss Cream",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.7660700981
-    },
+   
     {
         "id":"ChIJ9dIPovxawjsRKQ4HlyB6u9g",
         "rating":3.9,
@@ -33578,19 +33398,7 @@
         "primaryTypeDisplayName.text":"Indian Restaurant",
         "wilson_score":0.7347907695
     },
-    {
-        "id":"ChIJPcuGXB0UrjsRZYxarJOxIks",
-        "rating":3.8,
-        "googleMapsUri":"https:\/\/maps.google.com\/?cid=5414084949862681701",
-        "userRatingCount":1177,
-        "shortFormattedAddress":"HOSPITAL, 3161, Link Road 4, E S I, HAL 2nd Stage, Defence Colony, Indiranagar, Bengaluru",
-        "location.latitude":12.9695986,
-        "location.longitude":77.6358241,
-        "displayName.text":"Lakeview Milk Bar",
-        "displayName.languageCode":"en",
-        "primaryTypeDisplayName.text":"Ice Cream Shop",
-        "wilson_score":0.7347797271
-    },
+    
     {
         "id":"ChIJVaYHpgARrjsR4OHOlrDnAYU",
         "rating":3.8,
